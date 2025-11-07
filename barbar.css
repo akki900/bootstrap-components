@@ -1,0 +1,94 @@
+@charset "UTF-8";
+.barbar-section {
+  background-image: url(./images/barber_slider_01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 828px; }
+
+.barbar-content {
+  top: 35%;
+  left: 423px; }
+
+.barbar-content h1 {
+  font-size: 85px; }
+
+.our-offer {
+  background-color: #000000; }
+
+.offer-card-01 {
+  background-color: #0d0f0f;
+  border-bottom: 5px solid #dc3545; }
+
+.barbar-parallax {
+  background: url("images/vist_now.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-position: 50% 50%; }
+
+.price-tag {
+  padding: 88px 50px; }
+
+.barbar-parallax2 {
+  background: url("images/price_list960x1080.jpg");
+  background-size: cover;
+  height: 785px;
+  position: relative;
+  background-position: 50% 50%; }
+
+.barbar-zig-zag {
+  width: 73%;
+  min-height: 10px;
+  background: url("images/download.svg"); }
+
+.contact-image {
+  background: url("images/bea5.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto; }
+
+.pd-tp-bm {
+  padding-top: 106px;
+  padding-bottom: 106px; }
+
+.form-control {
+  height: calc(3rem + 2px);
+  background-color: rgba(252, 252, 252, 0.8);
+  border: 1px solid transparent;
+  border-radius: 0px; }
+
+.barbar-parallax3 {
+  background: url("images/working_hours.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: auto;
+  position: relative; }
+
+.footer-section {
+  background: #1f1f1f; }
+
+.line-arrow li::before {
+  content: "";
+  font-family: "popo";
+  font-display: auto;
+  float: left;
+  color: white;
+  margin-left: -1.8em; }
+
+.line-arrow li {
+  margin-left: 32px; }
+
+.icon-bar {
+  font-size: 30px; }
+
+.gallery-image {
+  width: 33%;
+  text-align: center; }
+
+.footer-bottom {
+  background: #161616; }
+
+/*# sourceMappingURL=barbar.css.map */
